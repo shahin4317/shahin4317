@@ -1,47 +1,78 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Md.%20Shahin%20Alam&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20Learner&descAlignY=58" />
 </p>
 
-<!-- Name -->
-<h1 align="center">Hi 👋, I'm Shahin</h1>
-<h3 align="center">Frontend Developer | React Learner 🚀</h3>
-
----
-
-## 🧑‍💻 About Me
-- 🎓 Diploma in Engineering Student  
-- 🌱 Currently learning **React & Full Stack Development**  
-- 💻 I love building web apps  
-- 📚 Daily 2-3 hours coding  
-
----
-
-## 🚀 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<h3 align="center">
+💻 Frontend Developer • React & Next.js Enthusiast • Building Modern Web Experiences
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <a href="https://github.com/shahin4317">
+    <img src="https://img.shields.io/github/followers/shahin4317?label=Followers&style=for-the-badge&logo=github&color=2563EB" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shahin4317&label=Profile%20Views&style=for-the-badge&color=0ea5e9" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
+# 👨‍💻 About Me
+
+- 🚀 Passionate Frontend Developer
+- 🌱 Currently learning **Next.js, React & Full Stack Development**
+- 💡 Love creating clean, responsive and modern UI
+- 🔥 Exploring Authentication, MongoDB & Backend
+- 🎯 Goal: Become a Professional Full Stack Developer
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,mongodb,git,github,vscode,figma&perline=6"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-I think I am funny 😄
--->
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahin4317&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/shahin4317">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-shahin-alam-1b24aa321">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+# 💻 Current Focus
+
+```txt
+⚡ Building Modern Web Applications
+📚 Learning Full Stack Development
+🎨 Improving UI/UX Design Skills
+🚀 Exploring Next.js & Authentication
+```
+
+---
+
+# ⚡ Quote
+
+> "Code. Learn. Improve. Repeat."
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
+</p>
