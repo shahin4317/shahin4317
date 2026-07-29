@@ -79,10 +79,8 @@ I enjoy building responsive, modern and user-friendly web applications while con
 
 | Project | Description |
 |---------|-------------|
-| 🍽️ Restaurant Website | Modern restaurant website built with Next.js |
-| 📚 Book Store | Responsive React application |
-| 👥 User Management | CRUD Application using Next.js |
-| 🛒 E-commerce UI | Modern shopping interface with Tailwind CSS |
+| 🍽️ Sunora--eCommerce-web | Modern E-commerce website built with Next.js and use Better Auth|
+
 
 ---
 
